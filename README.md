@@ -108,5 +108,5 @@ Check out the [FAQ](https://opacus.ai/docs/faq) page for answers to some of the 
 See the [CONTRIBUTING](https://github.com/pytorch/opacus/tree/main/CONTRIBUTING.md) file for how to help out.
 Do also check out the README files inside the repo to learn how the code is organized.
 
-## License
+## License 
 This code is released under Apache 2.0, as found in the [LICENSE](https://github.com/pytorch/opacus/tree/main/LICENSE) file.
